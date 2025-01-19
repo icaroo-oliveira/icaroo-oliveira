@@ -20,15 +20,12 @@ Sou Estudante de Engenharia de Computação na Universidade Estadual de Feira de
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/>
+
+  
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/solidity/solidity-plain.svg" width="40" height="40"/>
   
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Power_BI_Logo_2022.svg" width="40" height="40"/>
-  
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Solidity_logo.svg" width="40" height="40"/>
-  
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Hardhat_logo.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/hardhat/hardhat-original.svg" width="40" height="40"/>
 </div>
 
 
