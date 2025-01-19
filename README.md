@@ -23,8 +23,7 @@ Sou Estudante de Engenharia de Computação na Universidade Estadual de Feira de
 
   
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/solidity/solidity-plain.svg" width="40" height="40"/>
-  
-  
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/opencv/opencv-original-wordmark.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/hardhat/hardhat-original.svg" width="40" height="40"/>
 </div>
 
